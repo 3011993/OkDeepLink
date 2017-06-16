@@ -2,6 +2,8 @@
 [![Build Status](https://travis-ci.org/HongJun2046/OkDeepLink.svg?branch=master)](https://travis-ci.org/HongJun2046/OkDeepLink)
 [ ![Download](https://api.bintray.com/packages/zmanchina/maven/okdeeplink-gradle/images/download.svg) ](https://bintray.com/zmanchina/maven/okdeeplink-gradle/_latestVersion)
 
+[Cn Introduction](http://www.jianshu.com/p/8a3eeeaf01e8)
+
 OkDeepLink provides a annotation-based api to manipulate app deep links.
 
 - register deep links  with annotation `@Path`、`@Activity`
