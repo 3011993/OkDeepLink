@@ -1,6 +1,7 @@
 # OkDeepLink
 [![Build Status](https://travis-ci.org/HongJun2046/OkDeepLink.svg?branch=master)](https://travis-ci.org/HongJun2046/OkDeepLink)
 [ ![Download](https://api.bintray.com/packages/zmanchina/maven/okdeeplink-gradle/images/download.svg) ](https://bintray.com/zmanchina/maven/okdeeplink-gradle/_latestVersion)
+[![API](https://img.shields.io/badge/API-14%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=14)
 
 [Cn Introduction](http://www.jianshu.com/p/8a3eeeaf01e8)
 
